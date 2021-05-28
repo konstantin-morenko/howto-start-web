@@ -2,7 +2,7 @@
 title: О нас
 ---
 
-## Обратная связь
+## Обратная связь {#feedback}
 
 По всем вопросам вы можете обращаться по адресу
 [info@howto-start.ru](mailto:info@howto-start.ru).
