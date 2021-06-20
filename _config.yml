@@ -25,7 +25,7 @@ url: 'https://howto-start.ru'
 baseurl: ''
 title: 'Как начать'
 description: 'Как начать самые важные перемены в своей жизни'
-permalink: pretty
+# permalink: pretty
 logo: "/puzzle.jpg"
 favicons:
 - [16, favicon-16x16.png]
@@ -42,9 +42,11 @@ navigation_header:
 - title: Главная
   url: /
 - title: О нас
-  url: /about/
+  url: /about.html
 - title: Курсы
-  url: /courses/
+  url: /courses.html
+- title: Обратная связь
+  url: /feedback.html
 
 # Footer nav
 navigation_footer:
