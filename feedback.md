@@ -5,9 +5,6 @@ title: "Обратная связь"
 Все входящие заявки обрабатываются по будням два раза в день.  По
 возможности уделяю время и в выходные.
 
-Если у вас не видно форм, попробуйте отключить блокировщики Яндекса
-или воспользуйтесь ссылкой на форму в отдельном окне.
-
 ## Заказы
 
 ### Заказать курсы {#order_courses}
@@ -18,9 +15,6 @@ title: "Обратная связь"
 номеру заказа в форме [оплаты](#payment).
 
 <a href="https://forms.yandex.ru/u/60b39c5b9e15540a20f71f0a/" target="_blank">Форма в новом окне</a>
-
-<script src="https://yastatic.net/s3/frontend/forms/_/embed.js"></script>
-<iframe src="https://forms.yandex.ru/u/60b39c5b9e15540a20f71f0a/?iframe=1" frameborder="0" name="ya-form-60b39c5b9e15540a20f71f0a" width="650"></iframe>
 
 ### Оплатить {#payment}
 
