@@ -41,10 +41,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Главная
   url: /
-- title: О нас
+- title: Обо мне
   url: /about.html
 - title: Курсы
-  url: /courses.html
+  url: /courses/index.html
 - title: Обратная связь
   url: /feedback.html
 

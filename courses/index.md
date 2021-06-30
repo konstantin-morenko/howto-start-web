@@ -25,7 +25,7 @@ class="material-icons">event_available</span>, курс скоро будет
 ## Общение
 
 - <span class="material-icons">event_available</span>
-  *сентябрь 2021* Нравиться другим
+  Нравиться людям *(сентябрь 2021)*
 - Совещания
 
 ## Мышление
@@ -35,7 +35,7 @@ class="material-icons">event_available</span>, курс скоро будет
 иностранном языке?  У нас есть несколько инструментов.
 
 - <span class="material-icons">event_available</span>
-  *июль 2021* [Ментальные карты]({% link courses/mindmaps/about.md %})
+  [Мозговые карты]({% link courses/mindmaps/index.md %}) *(июль 2021)*
 - Мнемотехника
 
 ## Компьютер
@@ -52,5 +52,5 @@ class="material-icons">event_available</span>, курс скоро будет
 - Эффективный стол
 - Снизить стресс
 - <span class="material-icons">event_available</span>
-  *август 2021* Интервальная работа
+  Интервальная работа *(август 2021)*
 - Начать с конца
