@@ -1,6 +1,6 @@
 ---
 title: Структура курсов
-feature_image: "/structure.jpg"
+feature_image: "structure.jpg"
 feature_text: |
   ## Зачем курсам нужна структура и какова она?
 ---
