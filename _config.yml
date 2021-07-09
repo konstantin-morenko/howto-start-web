@@ -41,27 +41,31 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Главная
   url: /
-- title: Обо мне
-  url: /about.html
 - title: Курсы
   url: /courses/index.html
 - title: Обратная связь
   url: /feedback.html
+- title: Обо мне
+  url: /about.html
+- title: Новости
+  url: /news/news.html
+- title: Помощь
+  url: /help/buy.html
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Наверх
   url: "#top"
 
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Новости
     output: true
-    description: "My thoughts and ideas"
+    description: "Текущая жизнь проекта"
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      ## Все, что происходит с сайтом и курсами
+    feature_image: "/news/news.jpg"
 
 # Collection settings
 defaults:
