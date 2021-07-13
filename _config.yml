@@ -50,7 +50,7 @@ navigation_header:
 - title: Новости
   url: /news/news.html
 - title: Помощь
-  url: /help/buy.html
+  url: /help/index.html
 
 # Footer nav
 navigation_footer:
