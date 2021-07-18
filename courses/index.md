@@ -39,7 +39,7 @@ class="material-icons">event_available</span>, курс скоро будет
 иностранном языке?  У нас есть несколько инструментов.
 
 - <span class="material-icons">event_available</span>
-  [Мозговые карты]({% link courses/mindmaps/index.md %}) *(июль 2021)*
+  [Скетчи]({% link courses/sketches/index.md %}) *(июль 2021)*
 - Мнемотехника
 
 ## Компьютер

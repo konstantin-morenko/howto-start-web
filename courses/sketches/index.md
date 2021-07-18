@@ -1,6 +1,8 @@
 ---
-title: "Курс: Ментальные карты"
+title: "Курс: Скетчи"
 ---
+
+![Титульное изображение](/courses/fallback_title.jpg)
 
 ## Коротко
 
@@ -51,11 +53,11 @@ title: "Курс: Ментальные карты"
 
 Объем zip-архива курса: XX Мб.
 
-[Технические требования]
+[Демонстрационные материалы курса](/courses/sketches/demo.zip)
 
-[Возможные скидки](/help/buy.html#discount)
+[Технические требования](/help/buy.html#computer)
 
-[Демонстрационные материалы курса](/courses/mindmaps/demo.html)
+[Скидки](/help/buy.html#discount)
 
 [О приобретении курсов](/help/buy.html#buy)
 
