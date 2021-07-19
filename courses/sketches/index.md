@@ -2,7 +2,7 @@
 title: "Курс: Скетчи"
 ---
 
-![Титульное изображение](/courses/fallback_title.jpg)
+![Титульное изображение](title.png){:style="max-height: 80vmin; max-width: 80vmin"}
 
 ## Коротко
 
