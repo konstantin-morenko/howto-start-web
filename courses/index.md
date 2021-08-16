@@ -29,7 +29,7 @@ class="material-icons">event_available</span>, курс скоро будет
 ## Общение
 
 - <span class="material-icons">event_available</span>
-  Нравиться людям *(сентябрь 2021)*
+  [Нравиться людям](/courses/be-attractive/index.html) *(сентябрь 2021)*
 - Совещания
 
 ## Мышление
@@ -56,6 +56,6 @@ class="material-icons">event_available</span>, курс скоро будет
 - Эффективный стол
 - Снизить стресс
 - <span class="material-icons">event_available</span>
-  Интервальная работа *(август 2021)*
+  [Интервальная работа](/courses/interval-work/index.html) *(август 2021)*
 - Начать с конца
 - Жить здесь и сейчас
