@@ -11,13 +11,7 @@ feature_text: |
 материала, который позволит "влиться" в новую область и дальше искать
 информацию самостоятельно.
 
-Если рядом с названием курса стоит знак <span
-class="material-icons">done</span>, значит курс готов и его можно
-[заказать](/feedback.html#order).  Если рядом стоит знак <span
-class="material-icons">event_available</span>, курс скоро будет
-доступен.  Примерная дата выхода курса указана тут же.  Если никаких
-знаков нет, работа над курсом в ближайшее время не планируется.  Вы
-можете проголосовать за курсы, которые хотите увидеть следующими, в
+Вы можете проголосовать за курсы, которые хотите увидеть следующими, в
 форме [Следующих курсов](/feedback.html#vote_courses).
 
 ## Мастерство текста
@@ -28,8 +22,7 @@ class="material-icons">event_available</span>, курс скоро будет
 
 ## Общение
 
-- <span class="material-icons">event_available</span>
-  [Нравиться людям](/courses/be-attractive/index.html) *(декабрь 2021)*
+- [Нравиться людям](/courses/be-attractive/index.html) *(декабрь 2021)*
 - Совещания
 
 ## Мышление
@@ -38,8 +31,7 @@ class="material-icons">event_available</span>, курс скоро будет
 прогресса в работе и личной жизни?  Облегчить и ускорить прогресс в
 иностранном языке?  У нас есть несколько инструментов.
 
-- <span class="material-icons">event_available</span>
-  [Скетчи]({% link courses/sketches/index.md %}) *(август 2021)*
+- [Скетчи]({% link courses/sketches/index.md %})
 - Мнемотехника
 
 ## Компьютер
@@ -55,7 +47,6 @@ class="material-icons">event_available</span>, курс скоро будет
 
 - Эффективный стол
 - Снизить стресс
-- <span class="material-icons">event_available</span>
-  [Интервальная работа](/courses/interval-work/index.html) *(ноябрь 2021)*
+- [Интервальная работа](/courses/interval-work/index.html) *(ноябрь 2021)*
 - Начать с конца
 - Жить здесь и сейчас
