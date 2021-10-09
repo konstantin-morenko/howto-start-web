@@ -29,7 +29,7 @@ class="material-icons">event_available</span>, курс скоро будет
 ## Общение
 
 - <span class="material-icons">event_available</span>
-  [Нравиться людям](/courses/be-attractive/index.html) *(сентябрь 2021)*
+  [Нравиться людям](/courses/be-attractive/index.html) *(декабрь 2021)*
 - Совещания
 
 ## Мышление
@@ -39,7 +39,7 @@ class="material-icons">event_available</span>, курс скоро будет
 иностранном языке?  У нас есть несколько инструментов.
 
 - <span class="material-icons">event_available</span>
-  [Скетчи]({% link courses/sketches/index.md %}) *(июль 2021)*
+  [Скетчи]({% link courses/sketches/index.md %}) *(август 2021)*
 - Мнемотехника
 
 ## Компьютер
@@ -56,6 +56,6 @@ class="material-icons">event_available</span>, курс скоро будет
 - Эффективный стол
 - Снизить стресс
 - <span class="material-icons">event_available</span>
-  [Интервальная работа](/courses/interval-work/index.html) *(август 2021)*
+  [Интервальная работа](/courses/interval-work/index.html) *(ноябрь 2021)*
 - Начать с конца
 - Жить здесь и сейчас
