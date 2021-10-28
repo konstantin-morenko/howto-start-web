@@ -39,12 +39,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Главная
-  url: /
 - title: Курсы
   url: /courses/index.html
 - title: Обратная связь
   url: /feedback.html
+- title: Социальное
+  url: /social.html
 - title: Обо мне
   url: /about.html
 - title: Новости
