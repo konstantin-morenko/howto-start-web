@@ -63,4 +63,4 @@ title: "Курс: Скетчи"
 
 [О приобретении курсов](/help/buy.html#buy)
 
-[Форма для заказа](/feedback.html#order_courses)
+[Форма для заказа](https://forms.yandex.ru/cloud/619f6a6ed24f999bfaf39c2f/)
